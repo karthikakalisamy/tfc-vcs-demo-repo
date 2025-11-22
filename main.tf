@@ -20,7 +20,7 @@ terraform {
 
     workspaces {
 
-      name = "Karthika-cli-demo"
+      name = "Karthika-tfc-demo"
 
     }
 
