@@ -20,7 +20,7 @@ terraform {
 
     workspaces {
 
-      name = "cli-demo"
+      name = "Karthika-cli-demo"
 
     }
 
@@ -40,6 +40,6 @@ provider "aws" {
 
 resource "aws_s3_bucket" "demo" {
 
-  bucket = "kathika-tfc-cli-demo-bucket-123"
+  bucket = "kathika-tfc-cli-demo-bucket-123456"
 
 }
