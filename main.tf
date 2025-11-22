@@ -40,6 +40,6 @@ provider "aws" {
 
 resource "aws_s3_bucket" "demo" {
 
-  bucket = "kathika-tfc-cli-demo-bucket-143"
+  bucket = "kathika-tfc-cli-demo-bucket-999"
 
 }
